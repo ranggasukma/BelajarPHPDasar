@@ -1,0 +1,9 @@
+.image{
+	width: 50%;
+	height: 300px;
+	margin: auto;
+}
+
+.image img{
+	width: 100%;
+}
